@@ -1,5 +1,4 @@
-# dracula-port-scanner
-Simple TCP port scanner built with Python and socket
+
 # 🧛 Dracula Port Scanner
 
 A basic TCP port scanner built using Python and the `socket` library.
